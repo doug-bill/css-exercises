@@ -1,0 +1,12 @@
+/* This is the Style sheet for the Exercise 01 - css-methods
+*/
+
+div {
+    background-color: red;
+    color:white ;
+    font-weight: bold;
+    text-align: center;
+    font-size: 32px;
+
+    
+}
