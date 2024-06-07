@@ -1,0 +1,20 @@
+
+.odd {
+    background-color: rgb(216,112, 147);
+    font-family: Verdana, Geneva, Tahoma,Dejavu Sans, sans-serif;
+}
+
+.odd.cooler{
+    font-size: 24px;
+}
+
+#d2{
+    color:#0000ff;
+    font-size: 36px;
+}
+
+#d4{
+    background-color: #00ff0090;
+    font-size: 24px;
+    font-weight: 700;
+}
