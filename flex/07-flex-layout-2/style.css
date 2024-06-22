@@ -36,7 +36,7 @@ body {
   margin-right: auto;
   display: flex;
   height: auto;
-  padding: 16px;
+  padding-top: 16px;
 }
 
 a:link{
@@ -50,7 +50,7 @@ ul{
 }
 
 li{
-  padding: 10px;
+ margin-bottom: 16px;
 }
 
 .card {
