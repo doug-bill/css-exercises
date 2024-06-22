@@ -24,7 +24,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: 0px;
+  margin-top: auto;
 }
 
 .sidebar {
@@ -66,6 +66,7 @@ li{
 
 .container{
 display: flex;
+margin-bottom: auto;
 }
 
 .Cards{
@@ -74,5 +75,5 @@ display: flex;
   flex-wrap: wrap;
   gap:16px;
   margin-left: 24px;
-  margin-bottom: 48px;
+  margin-bottom: 56px;
 }
